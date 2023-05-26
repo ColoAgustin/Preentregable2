@@ -12,30 +12,30 @@
 /*-------------BODY----------*/
 
 
-  .bgbody{
+  .imgprin{
     
-    width: 800px;
-    height: 450px;
-    float:left;
+    width: 80%;
+    margin: 0 auto; 
+    display: block;
   }
-  h1{
+  /*h1{
     padding-left: 35%;
   }
   h4{
     padding-left: 35%;
   }
   body{
-    background-color: #d1ccc0 !important ; 
-  }
+    background-color: white !important ; 
+  }*/
   
   /*.aside{
     background-color: darkgray;
   }*/
-  .aside{
+  /*.aside{
     width: 700px;
     height: 400px;
     float: right;
-    }
+    }*/
     .black{
       text-decoration: none;
     }
@@ -43,7 +43,8 @@
       overflow: hidden;
       transition: 0.5s;
       object-fit: cover;
-      transform: scale(0.5s)
+      transform: scale(0.5s);
+  
     }
 
 
