@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+/*-------------HEADER---------*/
+/*.logo {
+  width: 5%;
+  height: 5%;
+}*/
+
+/*-------------BODY----------*/
+
+
+  .bgbody{
+    
+    width: 800px;
+    height: 450px;
+    float:left;
+  }
+  h1{
+    padding-left: 35%;
+  }
+  h4{
+    padding-left: 35%;
+  }
+  body{
+    background-color: #d1ccc0 !important ; 
+  }
+  
+  /*.aside{
+    background-color: darkgray;
+  }*/
+  .aside{
+    width: 700px;
+    height: 400px;
+    float: right;
+    }
+    .black{
+      text-decoration: none;
+    }
+    .black{
+      overflow: hidden;
+      transition: 0.5s;
+      object-fit: cover;
+      transform: scale(0.5s)
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  <style> @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+  </style>
