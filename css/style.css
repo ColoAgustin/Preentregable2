@@ -37,6 +37,17 @@
 }
 .black{
   text-decoration: none;
+  color: black;
+}
+
+.bgclass{
+  background-color: #c8d6e5;
+}
+.bgclass2{
+  background-color: #ced6e0;
+}
+.botondecompra{
+  background-color: #67e6dc;
 }
 /* footer*/
 
