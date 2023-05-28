@@ -1,0 +1,47 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+/*HEADER*/
+.ahover:hover{
+  color: black ;
+  text-shadow: none;
+  text-decoration: underline;
+  transform: scale(1.1) translate(0px, -5px);
+}
+/*-------------BODY----------*/
+.mainbg{
+  background-color: #bdc3c7;
+}
+.tittle1{
+  color: #4b6584;
+}
+.tittle2{
+  color: #576574;
+}
+.imgprin{
+
+  width: 80%;
+  margin: 0 auto; 
+  display: block;
+}
+.asideh{
+  height: 450px;
+}
+.bodybg{
+  background-image:url(../imgages/gaming-pattern.png) ;
+}
+.asidebg{
+  background-color: #ecf0f1;
+}
+.black{
+  text-decoration: none;
+}
+/* footer*/
+
+
+
+
+  <style> @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+  </style>
