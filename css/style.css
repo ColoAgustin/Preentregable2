@@ -1,65 +1,47 @@
 *{
-    padding: 0;
-    margin: 0;
-    box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
-/*-------------HEADER---------*/
-/*.logo {
-  width: 5%;
-  height: 5%;
-}*/
-
+/*HEADER*/
+.ahover:hover{
+  color: black ;
+  text-shadow: none;
+  text-decoration: underline;
+  transform: scale(1.1) translate(0px, -5px);
+}
 /*-------------BODY----------*/
+.mainbg{
+  background-color: #bdc3c7;
+}
+.tittle1{
+  color: #4b6584;
+}
+.tittle2{
+  color: #576574;
+}
+.imgprin{
 
-
-  .imgprin{
-    
-    width: 80%;
-    margin: 0 auto; 
-    display: block;
-  }
-  /*h1{
-    padding-left: 35%;
-  }
-  h4{
-    padding-left: 35%;
-  }
-  body{
-    background-color: white !important ; 
-  }*/
-  
-  /*.aside{
-    background-color: darkgray;
-  }*/
-  /*.aside{
-    width: 700px;
-    height: 400px;
-    float: right;
-    }*/
-    .black{
-      text-decoration: none;
-    }
-    .black{
-      overflow: hidden;
-      transition: 0.5s;
-      object-fit: cover;
-      transform: scale(0.5s);
-  
-    }
+  width: 80%;
+  margin: 0 auto; 
+  display: block;
+}
+.asideh{
+  height: 450px;
+}
+.bodybg{
+  background-image:url(../imgages/gaming-pattern.png) ;
+}
+.asidebg{
+  background-color: #ecf0f1;
+}
+.black{
+  text-decoration: none;
+}
+/* footer*/
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-  
   <style> @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
   </style>
