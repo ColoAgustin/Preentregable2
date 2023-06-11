@@ -1,58 +1,62 @@
-*{
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap");
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
 }
-/*HEADER*/
-.ahover:hover{
-  color: black ;
-  text-shadow: none;
-  text-decoration: underline;
-  transform: scale(1.1) translate(0px, -5px);
+
+.botondecompra {
+  background-color: #67e6dc;
 }
-/*-------------BODY----------*/
-.mainbg{
+
+.mainbg {
   background-color: #bdc3c7;
 }
-.tittle1{
+
+.tittle1 {
   color: #4b6584;
 }
-.tittle2{
+
+.tittle2 {
   color: #576574;
 }
-.imgprin{
 
+.imgprin {
   width: 80%;
-  margin: 0 auto; 
+  margin: 0 auto;
   display: block;
 }
-.asideh{
+
+.asideh {
   height: 450px;
 }
-.bodybg{
-  background-image:url(../image/gaming-pattern.png) ;
+
+.bodybg {
+  background-image: url(../image/gaming-pattern.png);
 }
-.asidebg{
+
+.asidebg {
   background-color: #ecf0f1;
 }
-.black{
+
+.black {
   text-decoration: none;
   color: black;
 }
 
-.bgclass{
+.bgclass {
   background-color: #c8d6e5;
 }
-.bgclass2{
+
+.bgclass2 {
   background-color: #ced6e0;
 }
-.botondecompra{
-  background-color: #67e6dc;
+
+.ahover:hover {
+  color: black;
+  text-shadow: none;
+  text-decoration: underline;
+  transform: scale(1.1) translate(0px, -5px);
 }
-/* footer*/
 
-
-
-
-  <style> @import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
-  </style>
+/*# sourceMappingURL=style.css.map */
