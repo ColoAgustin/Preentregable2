@@ -1,3 +1,6 @@
+@mixin background-principal{
+  background-image:url(../image/gaming-pattern.png) ;
+}
 .mainbg{
     background-color: #bdc3c7;
   }
@@ -16,9 +19,6 @@
   .asideh{
     height: 450px;
   }
-  .bodybg{
-    background-image:url(../image/gaming-pattern.png) ;
-  }
   .asidebg{
     background-color: #ecf0f1;
   }
@@ -33,4 +33,23 @@
   .bgclass2{
     background-color: #ced6e0;
   }
+
+  .imgcontacto{
+    width: 397px;
+    height: 500px;
+  }
+  .imgcomunidad{
+    width: 379px ;
+    height: 440px;
+   }
+
+.imglondres{
+  width: 450px;
+  height: 250px;
+}
+.imgrio{
+  width: 450px;
+  height: 250px;
+}
+
   

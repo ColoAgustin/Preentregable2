@@ -31,10 +31,6 @@
   height: 450px;
 }
 
-.bodybg {
-  background-image: url(../image/gaming-pattern.png);
-}
-
 .asidebg {
   background-color: #ecf0f1;
 }
@@ -52,11 +48,35 @@
   background-color: #ced6e0;
 }
 
+.imgcontacto {
+  width: 397px;
+  height: 500px;
+}
+
+.imgcomunidad {
+  width: 379px;
+  height: 440px;
+}
+
+.imglondres {
+  width: 450px;
+  height: 250px;
+}
+
+.imgrio {
+  width: 450px;
+  height: 250px;
+}
+
 .ahover:hover {
   color: black;
   text-shadow: none;
   text-decoration: underline;
   transform: scale(1.1) translate(0px, -5px);
+}
+
+.bodybg {
+  background-image: url(../image/gaming-pattern.png);
 }
 
 /*# sourceMappingURL=style.css.map */

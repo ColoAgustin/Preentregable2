@@ -1,0 +1,3 @@
+#Archivos para no subier en Git Hub
+*.json
+node_modules/
