@@ -68,6 +68,19 @@
   height: 250px;
 }
 
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+body .container-fluid {
+  flex: 1;
+}
+
+footer {
+  flex-shrink: 0;
+}
+
 .ahover:hover {
   color: black;
   text-shadow: none;
