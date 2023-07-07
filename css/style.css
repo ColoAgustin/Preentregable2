@@ -9,6 +9,10 @@
   background-color: #67e6dc;
 }
 
+.background-principal {
+  background-image: url(../image/gaming-pattern.png);
+}
+
 .mainbg {
   background-color: #bdc3c7;
 }
@@ -68,6 +72,12 @@
   height: 250px;
 }
 
+.bbeventos {
+  overflow-x: hidden;
+  height: 100%;
+  padding-bottom: 205px;
+}
+
 body {
   display: flex;
   flex-direction: column;
@@ -79,6 +89,15 @@ body .container-fluid {
 
 footer {
   flex-shrink: 0;
+}
+
+.ff {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #f1f1f1;
+  z-index: 9999;
 }
 
 .ahover:hover {

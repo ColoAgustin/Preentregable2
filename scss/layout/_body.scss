@@ -1,5 +1,8 @@
 @mixin background-principal{
-  background-image:url(../image/gaming-pattern.png) ;
+ background-image:url(../image/gaming-pattern.png) ;
+}
+.background-principal{
+  @include background-principal;
 }
 .mainbg{
     background-color: #bdc3c7;
@@ -51,5 +54,8 @@
   width: 450px;
   height: 250px;
 }
-
-  
+.bbeventos {
+  overflow-x: hidden;
+  height: 100%;
+  padding-bottom: 205px;
+}

@@ -11,3 +11,14 @@ body {
   footer {
     flex-shrink: 0;
   }
+
+.ff {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #f1f1f1;
+  z-index: 9999;
+}
+
+
